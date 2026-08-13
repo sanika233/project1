@@ -30,9 +30,9 @@ design pattern and supports cross-browser test execution across Google Chrome, M
 
 ##  Architecture & Design
 
-The project uses the **Page Object Model (POM)** architecture to ensure high maintainability, reusability, and clean separation of concerns:
+The project uses the Page Object Model (POM)architecture to ensure high maintainability, reusability, and clean separation of concerns:
 
-```text
+text
 GUVI_Project1/
 
  pages/                  # Page Object Model Layer
