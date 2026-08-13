@@ -1,3 +1,5 @@
+https://drive.google.com/drive/folders/1cR7Rs5ngoXy4gsFbnfScqIXByLAUoJ-P
+
 # Automation Testing of EdTech Platform Web Application
 
 Automated end-to-end testing of the GUVI web application using Selenium WebDriver, Python, and Pytest with Page Object Model (POM) architecture.
@@ -15,14 +17,14 @@ pytest --browser edge --html=reports/edge_report.html --self-contained-html
 
 Markdown# Automated Cross-Browser Testing of EdTech Platform (GUVI)
 
-[![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
-[![Selenium](https://img.shields.io/badge/Selenium-4.x-green.svg)](https://www.selenium.dev/)
-[![Pytest](https://img.shields.io/badge/Pytest-9.x-yellow.svg)](https://docs.pytest.org/)
-[![Page Object Model](https://img.shields.io/badge/Architecture-Page%20Object%20Model-orange.svg)]()
+Python(https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
+Selenium(https://img.shields.io/badge/Selenium-4.x-green.svg)](https://www.selenium.dev/)
+Pytest(https://img.shields.io/badge/Pytest-9.x-yellow.svg)](https://docs.pytest.org/)
+Page Object Mode(https://img.shields.io/badge/Architecture-Page%20Object%20Model-orange.svg)]()
 
 This repository contains a robust, end-to-end automated testing framework for the [GUVI EdTech Platform](https://www.guvi.in). 
-Built with **Python**, **Selenium WebDriver**, and **Pytest**, the project implements the **Page Object Model (POM)** 
-design pattern and supports cross-browser test execution across **Google Chrome**, **Microsoft Edge**.
+Built with Python, Selenium WebDriver, and Pytest, the project implements the Page Object Model (POM)
+design pattern and supports cross-browser test execution across Google Chrome, Microsoft Edge.
 
 ---
 
